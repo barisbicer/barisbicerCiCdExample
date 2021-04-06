@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping(value = "/example")
     public String example(){
-        return  "Spring Boot Uygulamasını AWS EC2 Linux Sunucusuna Jenkins ve Tomcat ile Otomatik Build ve Deploy Yapmak..";
+        return  "Spring Boot Uygulamasını AWS EC2 Linux Sunucusuna Jenkins ve Tomcat ile Otomatik Build ve Deploy Yapmak.....";
 
     }
 
